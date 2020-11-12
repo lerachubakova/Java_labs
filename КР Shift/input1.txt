@@ -1,0 +1,9 @@
+programs
+photo
+video
+music
+games
+read
+books
+documents
+apps

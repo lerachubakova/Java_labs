@@ -1,0 +1,13 @@
+delete
+shift+down
+down
+up
+delete
+down
+down
+down
+up
+shift+up+up+down+up
+delete
+down
+delete

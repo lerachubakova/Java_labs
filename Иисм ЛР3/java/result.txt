@@ -1,0 +1,28 @@
+Normal distribution: mu = 0, s_2 = 64
+size = 1000
+mu = 0
+mean = 0.11
+s_2 = 64
+dispersion = 61.759568202351716
+Kolmogorov test: 1.1172370734301782 < 1.36
+Pearson test: 13.589919026696117 < 16.9
+
+
+chi^2 distribution: m = 4
+size = 1000
+mu = 4
+mean = 3.34
+s_2 = 8.0
+dispersion = 7.352233890566931
+Kolmogorov test: 1.1117704616969226 < 1.36
+Pearson test: 10.604705464737668 < 16.9
+
+
+Fisher's distribution: l = 3 m = 5
+size = 1000
+mu = 1
+mean = 1.294
+s_2 = 11.11111111111111
+dispersion = 9.720292919616401
+Kolmogorov test: 0.9314553965477647 < 1.36
+Pearson test: 7.5312940782174325 < 16.9
